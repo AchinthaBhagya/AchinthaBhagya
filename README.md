@@ -1,11 +1,10 @@
+<pre>
     _    _   _  ___  _   _ ____  _______     _______  __
    / \  | \ | |/ _ \| \ | |  _ \| ____\ \   / /_ _\ \/ /
   / _ \ |  \| | | | |  \| | | | |  _|  \ \ / / | | \  /
  / ___ \| |\  | |_| | |\  | |_| | |___  \ V /  | | /  \
 /_/   \_\_| \_|\___/|_| \_|____/|_____|  \_/  |___/_/\_\
-
-
-
+</pre>
 # 💫 About Me:
 🌱 Currently learning Python, Networking, and Penetration Testing<br><br>🧠 Learning & Passionate about Cyber Defense & Ethical Hacking<br><br>🧩 Love building secure and innovative software solutions<br><br>🔐 Exploring Bug Bounty, Web Security, and Digital Forensics<br><br>⚙️ Always improving my coding, problem-solving, and security analysis skills
 
