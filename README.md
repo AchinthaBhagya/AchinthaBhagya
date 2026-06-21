@@ -1,3 +1,9 @@
+ █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗██████╗ ███████╗██╗   ██╗██╗  ██╗
+██╔══██╗████╗  ██║██╔═══██╗████╗  ██║██╔══██╗██╔════╝██║   ██║╚██╗██╔╝
+███████║██╔██╗ ██║██║   ██║██╔██╗ ██║██║  ██║█████╗  ██║   ██║ ╚███╔╝
+██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝ ██╔██╗
+██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║██████╔╝███████╗ ╚████╔╝ ██╔╝ ██╗
+╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝
 # 💫 About Me:
 🌱 Currently learning Python, Networking, and Penetration Testing<br><br>🧠 Learning & Passionate about Cyber Defense & Ethical Hacking<br><br>🧩 Love building secure and innovative software solutions<br><br>🔐 Exploring Bug Bounty, Web Security, and Digital Forensics<br><br>⚙️ Always improving my coding, problem-solving, and security analysis skills
 
